@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027499386524",
+    "project_id": "rpos-e0d04",
+    "storage_bucket": "rpos-e0d04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027499386524:android:34357295d72a5b8a01ef59",
+        "android_client_info": {
+          "package_name": "com.example.rpos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zrUBE-o4fhSkgvEYSugkP0euJC_aBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
